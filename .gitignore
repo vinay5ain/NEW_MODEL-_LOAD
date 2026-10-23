@@ -1,7 +1,36 @@
+# Local environment files and secrets
 .env
+.env.*
+!.env.example
+
+# Python environments, bytecode, and test caches
 .venv/
 venv/
+ENV/
+env/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+*.egg-info/
+build/
+
+# Generated FloodGuard processing outputs
 processed/
+
+# JavaScript dependencies and generated frontend builds
+node_modules/
+dist/
+coverage/
+
+# Local runtime data and logs
+instance/
+*.sqlite
+*.sqlite3
+*.db
+*.log
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
