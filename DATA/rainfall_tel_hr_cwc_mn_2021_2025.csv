@@ -1,0 +1,10 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Data Acquisition Time,Telemetry Hourly Rainfall (mm)
+1, Amraghat,CWC,14,Manipur,259,THOUBAL,KAKCHING,-,-,-,Indus,Siang,-,-,Sonai,24.58333333,93.96666667,04-07-2022 05:00,711
+2, Amraghat,CWC,14,Manipur,259,THOUBAL,KAKCHING,-,-,-,Indus,Siang,-,-,Sonai,24.58333333,93.96666667,21-07-2022 09:00,140
+3, Amraghat,CWC,14,Manipur,259,THOUBAL,KAKCHING,-,-,-,Indus,Siang,-,-,Sonai,24.58333333,93.96666667,22-11-2022 04:00,960
+4, Amraghat,CWC,14,Manipur,259,THOUBAL,KAKCHING,-,-,-,Indus,Siang,-,-,Sonai,24.58333333,93.96666667,24-11-2022 14:00,821
+5, Amraghat,CWC,14,Manipur,259,THOUBAL,KAKCHING,-,-,-,Indus,Siang,-,-,Sonai,24.58333333,93.96666667,29-11-2022 05:00,768
+6, Amraghat,CWC,14,Manipur,259,THOUBAL,KAKCHING,-,-,-,Indus,Siang,-,-,Sonai,24.58333333,93.96666667,11-12-2022 04:00,627
+7, Amraghat,CWC,14,Manipur,259,THOUBAL,KAKCHING,-,-,-,Indus,Siang,-,-,Sonai,24.58333333,93.96666667,19-01-2023 22:00,898
+8, Amraghat,CWC,14,Manipur,259,THOUBAL,KAKCHING,-,-,-,Indus,Siang,-,-,Sonai,24.58333333,93.96666667,20-03-2023 03:00,715
+9, Amraghat,CWC,14,Manipur,259,THOUBAL,KAKCHING,-,-,-,Indus,Siang,-,-,Sonai,24.58333333,93.96666667,12-04-2023 22:00,2
